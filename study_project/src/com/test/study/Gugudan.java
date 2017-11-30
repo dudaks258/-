@@ -11,7 +11,8 @@ public class Gugudan {
 			}
 			System.out.println();
 		}
-		System.out.println("Hellor");
+		System.out.println("Hello");
+		System.out.println("Hello spring");
 	}
 
 }
