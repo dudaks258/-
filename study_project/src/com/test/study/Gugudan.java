@@ -16,6 +16,7 @@ public class Gugudan {
 		System.out.println("Hello java");
 		System.out.println("Hello css");
 		System.out.println("Hello HTML");
+		System.out.println("Hello javaScript");
 	}
 
 }
